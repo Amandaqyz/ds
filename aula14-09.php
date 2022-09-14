@@ -17,7 +17,9 @@ o 3 vetor, e mostre os três vetores -->
                 $vetor3[]= $vetor1[$i] + $vetor2[$i];
                 break;
             case '-':
-                $vetor3[] = $vetor1[$i] - $vetor2
+                $vetor3[] = $vetor1[$i] - $vetor2;
+            break;
+            
 
         }
     }
